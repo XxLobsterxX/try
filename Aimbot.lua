@@ -93,7 +93,7 @@ getgenv().ExunysDeveloperAimbot = {
 	Settings = {
 		Enabled = true,
 
-		TeamCheck = true,
+		TeamCheck = false,
 		AliveCheck = true,
 		WallCheck = true,
 
@@ -114,7 +114,7 @@ getgenv().ExunysDeveloperAimbot = {
 		Enabled = true,
 		Visible = true,
 
-		Radius = 200,
+		Radius = 150,
 		NumSides = 60,
 
 		Thickness = 1,
